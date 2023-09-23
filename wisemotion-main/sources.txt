@@ -1,0 +1,9 @@
+Sources: 
+https://ergo.human.cornell.edu/ahRULA.html#:~:text=The%20Rapid%20Upper%20Limb%20Assessment,now%20at%20Telstra%2C%20Australia
+https://ergo.human.cornell.edu/ahRULA.html#:~:text=The%20Rapid%20Upper%20Limb%20Assessment,now%20at%20Telstra%2C%20Australia
+https://medium.com/towards-artificial-intelligence/detecting-bad-posture-with-machine-learning-be4b9de763d0
+https://towardsai.net/p/machine-learning/detecting-bad-posture-with-machine-learning
+https://github.com/leoneversberg/ergonomy_demo
+https://medium.com/analytics-vidhya/eye-aspect-ratio-ear-and-drowsiness-detector-using-dlib-a0b2c292d706
+https://learnopencv.com/driver-drowsiness-detection-using-mediapipe-in-python/
+https://towardsdatascience.com/facial-mapping-landmarks-with-dlib-python-160abcf7d672
