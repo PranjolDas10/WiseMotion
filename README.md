@@ -2,6 +2,8 @@
 An all in one platform designed for safe driving
 
 # About
+(This project was made for Hack the North)
+
 This code analyzes the posture of a sitting driver to determine whether or not they are sitting ergonomically.
 Reminders are given to those driving in bad postures.
 
